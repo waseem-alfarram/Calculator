@@ -1,2 +1,2 @@
 # Calculator
-This is a simple calculator desktop app written in java
+I made this simple calculator desktop app which is written in java
